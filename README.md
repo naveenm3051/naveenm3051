@@ -1,4 +1,4 @@
-[![Social banner for ng3w](https://github.com/ng3w-uv/myportfolio/blob/main/Keep%20Coding.png)](https://ng3w.tech)
+[![Social banner for naveenm3051](https://github.com/naveenm3051/NSE-Share-Quotes/blob/33f09bd1d989171a14f818dae998d8aea2c670fd/Keep%20Coding-4.png)]
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 Hey this is Naveen Maheshwari!
